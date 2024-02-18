@@ -1,2 +1,2 @@
-# OsisKebSman1Jempang
+# OsisKBSman1Jempang
 Website Untuk Osis Kebersihan
